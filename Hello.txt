@@ -1,1 +1,4 @@
+Hello world i'm coding
+add tất cả : git add .
+git init và git add dùng 1 lần khi tạo dự án
 
